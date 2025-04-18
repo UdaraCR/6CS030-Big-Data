@@ -25,7 +25,7 @@ The contributions of this report include:
 
 
 
-# References 
+## References 
 1.	R. Lu, X. Zhao, J. Li, P. Niu, B. Yang, H. Wu, et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding Lancet, 395 (2020) (2019), pp. 565-574
 2.	World Health Organization, WHO Director-General’s remarks at the media briefing on 2019-nCoV on 11 February 2020 [EB/ OL], https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020 (accessed 2 February 2020).
 3.	Y. Liu, Y. Yang, C. Zhang, C. Zhang, F. Huang, F. Wang, et al. Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury Sci. China Life Sci., 63 (2020), pp. 364-374, 10.1007/s11427-020-1643-8
